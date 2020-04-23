@@ -1,0 +1,1 @@
+Starija verzija bez baze. Podatci se dohvaćaju iz dat/... datoteka.
